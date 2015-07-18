@@ -1,0 +1,1 @@
+B1g Pick'em is a code base for managing a simple pick'em website.  B1g Pick'em makes generation of weekly pick'em slates easy for the pool manager, make the picking process easy for users, and exports picks to Google Docs automatically.
